@@ -6,13 +6,13 @@ In this project, I used the Canadian vehicle emissions dataset (7,385 records) t
 
 Steps & Pipeline
 
--Exploratory Data Analysis (EDA): Cleaned and inspected the data, checking relationships between features through visualizations.
+ -Exploratory Data Analysis (EDA): Cleaned and inspected the data, checking relationships between features through visualizations.
 
--Feature Engineering: Used pd.get_dummies (One-Hot Encoding) to convert text-based columns like Transmission and Fuel Type into numerical format for the model.
+ -Feature Engineering: Used pd.get_dummies (One-Hot Encoding) to convert text-based columns like Transmission and Fuel Type into numerical format for the model.
 
--Model Training: Built a Linear Regression model using scikit-learn and split the data into training and testing sets.
+ -Model Training: Built a Linear Regression model using scikit-learn and split the data into training and testing sets.
 
--Evaluation: Measured model performance using the R2 Score and Root Mean Squared Error (RMSE).
+ -Evaluation: Measured model performance using the R2 Score and Root Mean Squared Error (RMSE).
 
 Results
 
