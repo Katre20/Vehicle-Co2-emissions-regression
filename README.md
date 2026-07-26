@@ -1,4 +1,4 @@
-Vehicle-Co2-emissions-regression
+VEHICLE-CO2-EMISSIONS-REGRESSION
 
 About the Project
 
